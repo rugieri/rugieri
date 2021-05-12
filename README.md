@@ -24,8 +24,7 @@ I'm Ronaldo Rugieri
 
 
 [![Rugieris Github Stats](https://github-readme-stats.vercel.app/api?username=rugieri)](https://github.com/rugieri/github-readme-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rugieri&layout=compact)](https://github.com/rugieri/github-readme-stats)
+ 
 
 
 <!-- Resources -->
