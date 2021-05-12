@@ -1,7 +1,8 @@
 # Hi there 👋 
 
-I'm Ronaldo Rugieri
+### I'm Ronaldo Rugieri
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 
 
 ## 🔧 Technologies & Tools
