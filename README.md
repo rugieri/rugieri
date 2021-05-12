@@ -16,7 +16,6 @@ I'm Ronaldo Rugieri
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=430098)
 ![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=Netlify&logoColor=white&color=00C7B7)
 
