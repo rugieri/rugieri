@@ -24,8 +24,15 @@
 
 
 [![Rugieris Github Stats](https://github-readme-stats.vercel.app/api?username=rugieri)](https://github.com/rugieri/github-readme-stats)
- 
-
+<!-- 
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugieri&hide=html&layout=compact&show_icons=true&theme=gruvbox" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=rugieri&show_icons=true&theme=gruvbox" /></td>
+    </tr>   
+  </table>
+</center>  
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
