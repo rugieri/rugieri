@@ -3,7 +3,7 @@
 ## I'm Ronaldo Rugieri
 
 <!-- [](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet) -->
-
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ronaldo-rugieri/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ronaldo_rugieri/)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=61DBFB)
 ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=Gatsby&logoColor=white&color=663399)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node-dot-js&logoColor=white&color=339933)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
