@@ -25,11 +25,11 @@
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=430098)
 ![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=Netlify&logoColor=white&color=00C7B7)
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats
 
 
-[![Rugieris Github Stats](https://github-readme-stats.vercel.app/api?username=rugieri)](https://github.com/rugieri/github-readme-stats)
-<!-- 
+ [![Rugieris Github Stats](https://github-readme-stats.vercel.app/api?username=rugieri)](https://github.com/rugieri/github-readme-stats)
+
 <center>
   <table>
     <tr>
@@ -37,7 +37,7 @@
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=rugieri&show_icons=true&theme=gruvbox" /></td>
     </tr>   
   </table>
-</center>  
+</center>  -->
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
